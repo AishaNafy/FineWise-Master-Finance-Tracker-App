@@ -1,10 +1,10 @@
-##💲 FineWise: Personal Finance Tracker App
+## 💲 FineWise: Personal Finance Tracker App
 
 Personal Finance Tracker is a smart and intuitive Kotlin-based mobile app that puts you in control of your money. Effortlessly track your income, expenses, and savings, visualize your spending habits, and set monthly budgets to stay on top of your financial goals. With real-time notifications, easy-to-use transaction management, and reliable data storage, managing your finances has never been this simple or this satisfying.
 
 ---
 
-##🚀 Features
+## 🚀 Features
 
 Transaction Management
 - Add, edit, and delete income and expense transactions.
@@ -29,7 +29,7 @@ Push Notifications (Bonus)
 
 ---
 
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 - IDE: Android Studio
 - Programming Language: Kotlin
 - Data Storage: SharedPreferences + Internal Storage
@@ -38,21 +38,21 @@ Push Notifications (Bonus)
 
 ---
 
-##📋 Methodology
+## 📋 Methodology
 - Requirement analysis to identify core features and user needs.
 - Studied existing finance apps for best practices and usability insights.
 - Iterative design and testing to ensure smooth user experience.
 
 ---
 
-##🎨 Design Method
+## 🎨 Design Method
 - UI/UX prototyped using Figma.
 - Visual elements and icons created using Photoshop.
 - Developed interactive prototypes to guide development.
 
 ---
 
-##📌 Roadmap / Future Enhancements
+## 📌 Roadmap / Future Enhancements
 - Exportable reports (CSV/JSON) for transaction history.
 - AI-based spending insights and recommendations.
 - Dark mode and theme customization.
@@ -60,7 +60,7 @@ Push Notifications (Bonus)
 
 ---
 
-## 🌐 Demo
+##  🌐 Demo
 
 
 ---
