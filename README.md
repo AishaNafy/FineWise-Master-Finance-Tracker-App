@@ -10,7 +10,7 @@
 
 Personal Finance Tracker is a sleek and intelligent Kotlin-based mobile application designed to help you master your financial life with confidence. Whether you're managing daily expenses, planning long-term savings, or simply trying to understand where your money goes, this app turns complex financial tasks into a smooth, stress-free experience.
 
-Track your income and expenses with ease, analyze your spending through beautiful visual insights, and set personalized monthly budgets that keep you motivated and accountable. With real-time notifications, secure data storage, and an intuitive interface, Personal Finance Tracker doesn’t just record your finances — it empowers you to build better habits and achieve your financial goals with clarity and control.
+Track your income and expenses with ease, analyze your spending through beautiful visual insights, and set personalized monthly budgets that keep you motivated and accountable. With real-time notifications, secure data storage, and an intuitive interface, Personal Finance Tracker doesn’t just record your finances it empowers you to build better habits and achieve your financial goals with clarity and control.
 
 ---
 
