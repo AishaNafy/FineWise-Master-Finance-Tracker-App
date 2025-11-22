@@ -3,7 +3,7 @@
  ---
 
  <p align="center">
-  <img src="FinWise-master/app/src/main/res/drawable/logo.png" width="100">
+  <img src="FinWise-master/app/src/main/res/drawable/logo.png" width="200">
 </p>
 
 
